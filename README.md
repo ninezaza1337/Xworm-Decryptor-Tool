@@ -28,6 +28,8 @@
 - ตรวจสอบและระบุประเภทข้อมูล (IP address, Port number)
 - รองรับ multiple encoding formats (UTF-8, Latin-1)
 
+<img width="1299" height="792" alt="Screenshot 2025-11-01 183559" src="https://github.com/user-attachments/assets/2b5657ae-f4ca-4444-ab39-a1e7a8c7f5cd" />
+
 #### การตั้งค่าที่สามารถถอดรหัสได้:
 - **`Hosts`** - ที่อยู่ IP ของ C&C Server
 - **`Port`** - พอร์ตการเชื่อมต่อ
