@@ -9,7 +9,7 @@ SETTINGS = {
     "Port":        "",
     "KEY":         "",
     "SPL":         "",
-    "Sleep":       3,  # not encrypted
+    "Sleep":       3,
     "Groub":       "",
     "USBNM":       "",
     "InstallDir":  "",
@@ -85,3 +85,4 @@ def main():
     
 if __name__ == "__main__":
     main()
+
